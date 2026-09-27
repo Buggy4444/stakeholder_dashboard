@@ -29,3 +29,6 @@ Open [http://localhost:3000](http://localhost:3000).
 **Clients:** Northstar Retail Group, Helix Health Systems, Meridian National Bank, Cascade Industrials (prospect).
 
 **Projects:** Horizon, Polaris, CarePath, Gateway, Ledger — each with its own stakeholder map.
+
+<img width="1516" height="1258" alt="image" src="https://github.com/user-attachments/assets/c88f88b3-aba5-40c3-a5d1-0599c61efbbd" />
+
